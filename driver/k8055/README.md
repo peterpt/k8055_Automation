@@ -42,9 +42,9 @@ Install linux driver :
 Install python3 wrapper:
 
 cd pyk8055
-sudo apt-get install python3-dev python3-setuptools swig
-sudo python3 setup.py build
-sudo python3 setup.py install
+$ sudo apt-get install python3-dev python3-setuptools swig
+$ sudo python3 setup.py build
+$ sudo python3 setup.py install
    
 
 [GPL](http://www.gnu.org/licenses/gpl.html)
