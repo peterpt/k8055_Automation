@@ -1,0 +1,7 @@
+libk8055.i
+pyk8055.py
+setup.py
+pyk8055.egg-info/PKG-INFO
+pyk8055.egg-info/SOURCES.txt
+pyk8055.egg-info/dependency_links.txt
+pyk8055.egg-info/top_level.txt

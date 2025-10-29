@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: pyk8055
+Version: 0.4.2
+Summary: Modernized Python 3 wrapper for the Velleman K8055 USB board.
+Home-page: http://github.com/peterpt/
+Author: Pjetur G. Hjaltason
+Author-email: pjetur@pjetur.net
+Maintainer: peterpt
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: maintainer
+Dynamic: summary
+
+A SWIG-based Python 3 interface for the libk8055 C-library, updated to use libusb-1.0 for compatibility with modern Linux systems.
